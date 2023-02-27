@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\KFinal\asmaa\API\courses_site api\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="E:\KFinal\asmaa\API\courses_site api\obj\Release\net5.0\PubTmp\EFSQLScripts\courses_site_api.models.courses_entitiy.sql" />
+</sitemanifest>
